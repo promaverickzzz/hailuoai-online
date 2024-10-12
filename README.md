@@ -1,2 +1,1 @@
-# hailuoai-online
-Hailuo AI
+# Hailuo AI
